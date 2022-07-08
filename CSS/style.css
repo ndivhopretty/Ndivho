@@ -1,0 +1,47 @@
+
+h1 {
+    color: black;
+    font-size: 40px;
+    margin: 3em;
+    border: 6px dotted;
+    padding: 26px;
+}
+li:hover{
+  font-size: 40px
+}
+
+.myClass{
+  background-color: pink;
+
+}
+body{
+  background-color: pink;
+}
+img:hover{
+  width: 100px;
+  height: 100px;
+}
+
+ul{
+  background-color: purple;
+  font-size: 1em;
+  border: 3px dotted black;
+  transition: 0.3s ease;
+}
+
+ol{
+  background-color: purple;
+  font-size: 1em;
+  border: 3px dotted black;
+  transition: 0.3s ease;
+}
+
+li{
+  transition: 0,3s ease;
+}
+
+img{
+  border: 6px purple solid;
+  width: 200px;
+  height: 200px;
+}
